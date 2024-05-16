@@ -1,0 +1,24 @@
+1. Encapsulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
+
+Syntax	- Writing rules
+
+sub-procedure
+function-procedure
+
+access modifier
+	public
+	private
+	protected
+
+SQL - Structured Query Language
+	(Declarative)
+
+SELECT * FROM employee;
+INSERT INTO employee VALUES();
+
+Variable may:
+	defined statically(compile) or dynamically
+					(runtime)
