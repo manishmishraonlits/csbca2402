@@ -1,0 +1,9 @@
+SQL - Structured Query Language (RDBMS)
+
+ADO.Net
+
+ADO.Net is ______________ API.
+a) Connected
+b) Disconnected
+c) Both
+d) None
