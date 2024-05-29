@@ -1,0 +1,42 @@
+What is Array?
+Array is a collection of similar elements/data types.
+
+Why Array?
+So that we can efficiently process lists.
+Sorting
+	if(a>b && b>c)
+	if(a>c && c>b)
+	3! = 6
+
+	5! = 120
+	6! = 720
+	7! = 5040
+
+DSA = Data Structures & Algorithm
+
+15
+89
+3
+45
+56
+
+Monotonous
+
+Unit Testing Frameworks
+
+SQL	-	Declarative 
+PL/SQL	-	Procedural
+
+Full stack web developer
+Shell Scripting
+
+Makefile
+
+VB.Net Black Book by Steven Holzner
+
+Microsoft Docs VB.Net
+
+1. Explain OOP paradigm in detail. (15)
+2. What was the need for introducing OOP. Cite some
+   applications of OOP. (10 + 5)
+

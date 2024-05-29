@@ -1,0 +1,53 @@
+Homework:
+	
+Organize code into classes
+
+Logic
+
+Function
+
+WAP to find prime numbers between 1 to 100.
+
+#include <stdio.h>
+
+int main(void)
+{
+	
+}
+
+int isPrime(int n)
+{
+
+	(fact == 2)?return 1:return 2;
+}
+
+Clean Coding
+Clean Architecture
+
+
+TodoApp
+	Everyone
+	A collection of TodoLists
+	TodoList is a collection of TodoItems
+Analysis
+
+
+How can we be successful
+	set goal
+	planning & organizing
+
+Entity/Object
+	Anything with individual existence
+
+
+
+TodoItem
+	title
+	date
+	duedate
+	notes
+
+TodoList
+	an array of todoitems/Linked-List
+
+
