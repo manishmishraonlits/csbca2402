@@ -29,6 +29,7 @@ Class
 	- A specification of object
 	- A template for creating object
 	- Collections of object
+	- Class is a user-defined data type (UDT)
 
 Object
 	A real life entity that acts as the basic runtime

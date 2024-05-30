@@ -1,0 +1,12 @@
+Analysis
+	- Identify objects
+
+	1. TodoItem	-	object
+	2. TodoList	-	object
+	3. TodoApp?
+
+
+Dynamic Memory Allocation
+malloc()	-	new
+calloc()
+free()		-	delete
