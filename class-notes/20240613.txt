@@ -1,0 +1,11 @@
+Differentiate VB6 with VB.Net.Trace the evolution
+of VB.Net (15)
+
+Elaborate any three programming paradigms. One of
+the paradigms should be "Event Driven Programming"
+paradigm.
+
+Procedure Oriented Programming
+Object Oriented Programming
+Visual Programming Paradigm
+	Tersus Platform

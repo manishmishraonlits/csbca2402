@@ -1,0 +1,24 @@
+Function: A block of code to carry out a
+	  specific task.
+
+Sub-Procedure	-	Does not return value
+Function-Procedure	-	Returns value
+Event-Procedure
+
+strcat()
+
+Header & Footer
+
+Indentation
+
+concatenate
+	
+
+Enter data from you passbook into a excel
+worksheet for 3 or 6 months as applicable.
+Verify that the interest paid by your bank
+to you in the last period is correct or not.
+
+Keyword
+Operators
+	+ -> addition & concatenation

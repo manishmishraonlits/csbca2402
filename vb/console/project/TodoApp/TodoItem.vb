@@ -6,6 +6,16 @@ Class TodoItem
     Private dueDate As Date
     Private note As String
 
+    Sub NewTodoItemForm()
+        Console.WriteLine("NEW TODO ITEM")
+        Console.Write("Id: ")
+        id = Console.ReadLine()
+        Console.Write("Title: ")
+        title = Console.ReadLine()
+        Console.Write("Note: ")
+        note = Console.ReadLine()
+    End Sub
+
     Sub AddTodoItem()
         Console.WriteLine("AddTodo()")
     End Sub
@@ -19,7 +29,9 @@ Class TodoItem
     End Sub
 
     Public Function GetTodoItem() As Integer
-
+        Console.WriteLine("Id: " & id)
+        Console.WriteLine("Title: " & title)
+        Console.WriteLine("Note: " & note)
         Return 0
     End Function
 
@@ -33,7 +45,8 @@ End Class
 Module Test
     Sub Main()
         Dim todoItem As New TodoItem
-        todoItem.AddTodoItem()
+        todoItem.NewTodoItemForm()
+        todoItem.GetTodoItem()
     End Sub
 End Module
 End Namespace

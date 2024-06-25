@@ -1,0 +1,6 @@
+OLTP	-	OnLine Transaction Processing
+OLAP	-	OnLine Analytical Processing
+
+count
+min
+max

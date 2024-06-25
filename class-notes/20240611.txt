@@ -1,0 +1,35 @@
+What is class?
+ A specification of object.
+
+What is object?
+ A real life entity represented in a OOS.
+
+Shop
+	Customer
+	Item
+	Supplier
+	Invoice (Customer)
+	Bill (Supplier)
+
+School
+	Student
+	Attendance
+	Class
+	Exams
+
+Temporary -	Variables, Arrays, Objects
+Permanent -	Files, Database
+
+GUI
+
+Visual Studio
+
+Write short notes on
+	1. Visual Studio IDE
+	2. Visual Studio Project
+	3. Visual Studio Solution
+
+
+
+
+

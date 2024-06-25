@@ -1,0 +1,20 @@
+Planning
+	
+Coupling - Inter module connection - Loose
+Cohesion - Intra module connection - Tight
+
+Front-End
+Back-End
+
+Data:
+	Temporary
+		variables
+	Permanent
+		files
+		database file
+			Hierarchical
+			Network
+			Relational (Table)
+
+Search
+Sorting
