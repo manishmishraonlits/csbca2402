@@ -1,0 +1,15 @@
+WYSIWYG - What you see is what you get.
+
+.rtf	-	rich text file
+
+C	-	
+R
+U
+D
+
+this pointer
+Static class
+
+JIT
+
+public static void main(String[] args)		-	static method

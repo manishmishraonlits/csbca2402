@@ -1,0 +1,19 @@
+Splash Screen
+
+Text Editor - Cedit
+
+yash.kumar@example.com
+
+Task list:
+	1. Create project
+	2. Design App's UI
+	3. Code the app
+
+IDE: Integrated Development Environment
+
+.gitignore
+
+VB before .Net Framework
+VB.Net
+
+Boilerplate Code
