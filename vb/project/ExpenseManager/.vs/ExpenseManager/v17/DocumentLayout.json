@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmeditexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmeditexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|c:\\batches\\csbca2402\\vb\\project\\expensemanager\\expensemanager\\frmeditexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmeditexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmnewexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmnewexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmnewexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmnewexpensetype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmexpensemanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmexpensemanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\expensemanager\\frmexpensemanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EBECFE84-F21E-4F13-BEF6-345507C76614}|ExpenseManager\\ExpenseManager.vbproj|solutionrelative:expensemanager\\frmexpensemanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmLogin.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmLogin.vb [Design]",
+              "RelativeToolTip": "ExpenseManager\\FrmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:02:37.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEditExpenseType.vb",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmEditExpenseType.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmEditExpenseType.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmEditExpenseType.vb",
+              "RelativeToolTip": "ExpenseManager\\FrmEditExpenseType.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:02:13.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmNewExpenseType.vb [Design]",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmNewExpenseType.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmNewExpenseType.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmNewExpenseType.vb [Design]",
+              "RelativeToolTip": "ExpenseManager\\FrmNewExpenseType.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:01:28.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEditExpenseType.vb [Design]",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmEditExpenseType.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmEditExpenseType.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmEditExpenseType.vb [Design]",
+              "RelativeToolTip": "ExpenseManager\\FrmEditExpenseType.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:00:40.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.vb",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmLogin.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmLogin.vb",
+              "RelativeToolTip": "ExpenseManager\\FrmLogin.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:02:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmExpenseManager.vb",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmExpenseManager.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmExpenseManager.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmExpenseManager.vb",
+              "RelativeToolTip": "ExpenseManager\\FrmExpenseManager.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:09:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmNewExpenseType.vb",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmNewExpenseType.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmNewExpenseType.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmNewExpenseType.vb",
+              "RelativeToolTip": "ExpenseManager\\FrmNewExpenseType.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T05:03:14.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmExpenseManager.vb [Design]",
+              "DocumentMoniker": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmExpenseManager.vb",
+              "RelativeDocumentMoniker": "ExpenseManager\\FrmExpenseManager.vb",
+              "ToolTip": "C:\\Batches\\csbca2402\\vb\\project\\ExpenseManager\\ExpenseManager\\FrmExpenseManager.vb [Design]",
+              "RelativeToolTip": "ExpenseManager\\FrmExpenseManager.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T06:15:39.339Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

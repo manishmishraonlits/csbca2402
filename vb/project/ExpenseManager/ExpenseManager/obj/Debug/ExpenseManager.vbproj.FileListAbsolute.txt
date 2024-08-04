@@ -1,0 +1,16 @@
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\bin\Debug\ExpenseManager.exe.config
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\bin\Debug\ExpenseManager.exe
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\bin\Debug\ExpenseManager.pdb
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\bin\Debug\ExpenseManager.xml
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.vbproj.AssemblyReference.cache
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.FrmExpenseManager.resources
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.Resources.resources
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.vbproj.GenerateResource.cache
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.vbproj.CoreCompileInputs.cache
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.exe
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.xml
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.pdb
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.FrmLogin.resources
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.FrmNewExpenseType.resources
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.FrmSplash.resources
+C:\Batches\csbca2402\vb\project\ExpenseManager\ExpenseManager\obj\Debug\ExpenseManager.FrmEditExpenseType.resources

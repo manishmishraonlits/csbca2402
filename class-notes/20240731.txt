@@ -1,0 +1,6 @@
+ADO.NET
+
+Active(X) Data Objects
+
+What is the extension of ActiveX control?
+.ocx

@@ -1,0 +1,29 @@
+CREATE TABLE student
+(
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(100),
+gender CHAR(1),
+class_roll_no INT,
+CHECK(class_roll_no>=1 AND class_roll_no<=60)
+);
+
+
+CREATE TABLE attendance(
+id INT AUTO_INCREMENT PRIMARY KEY,
+sid INT,
+date DATE
+);
+
+attendance(roll_no, name, attendance, date)
+
+attendance(id, sid, date)
+
+What is the purpose of foreign key?
+In order to ensure referential integrity
+
+Entity integrity
+
+Todo App
+Expense Manager
+Problem statement for personal expense manager
+Suggest a name for the application

@@ -1,0 +1,16 @@
+C	-	Create
+R	-	Read
+U	-	Update
+D	-	Delete
+
+Software crisis
+
+Time-space trade-off
+
+Mathematical implication of algorithm
+
+Connection connection = DriverManager.getConnection(url);		//Abstraction
+Statement statement = connection.createStatement();
+
+SqlConnection sqlConnection = new SqlConnection();
+SqlCommand sqlCommand = new SqlCommand();

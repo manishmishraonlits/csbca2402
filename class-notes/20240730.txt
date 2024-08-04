@@ -1,0 +1,20 @@
+RDBMS
+	C#
+
+Data Dictionary
+
+Feasibility Study:
+	Technical Feasible X
+	Economic Feasible
+
+Classic Windows Desktop Application
+	VB.Net
+	SQL Server
+	ADO.Net
+
+	Visual Studio 2022
+
+Back end
+
+SDI	-	Single Document Interface
+MDI	-	Multiple Document Interface

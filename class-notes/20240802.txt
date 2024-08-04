@@ -1,0 +1,29 @@
+Visual Programming Paradigm
+
+Package Oriented Development
+
+Reinvention of Wheel
+
+Deployment Issue
+	Embedded Database (SQLite, SQL Server CE)
+
+.Net Framework
+
+Module Factorial
+	Sub Main()
+		Dim n As Integer
+		Dim f As Integer = 1
+		Console.WriteLine("Enter a number: ")
+		n = Console.ReadLine()
+		For i As Integer = 1 to n
+			f = f * i
+		Next i
+		Console.WriteLine("Factorial is " & f)
+	End Sub
+End Module
+
+Process Management
+Memory Management
+I/O Management
+
+CLR	-	Common Language Runtime
