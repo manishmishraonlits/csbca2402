@@ -1,0 +1,44 @@
+char str[50];
+int l = strlen(str);
+strcpy(str2, str1);
+
+
+string str;
+int l = str.length();
+str2 = str1;
+
+String str;
+int l = str.length();
+
+Dim str as String
+Dim l as Integer = str.length()
+str2 = str1;
+
+length
+compare two string
+concatenate string
+
+Mutable & Immutable strings
+StringBuilder vs String
+
+
+Truncate vs Delete
+
+O(1)	-	Excellent
+O(log n)-	Good
+O(n)	-	Fair
+O(n log n)	Bad
+O(n^2)		Horrible	
+O(2^n)
+O(n!)
+
+typedef struct node
+{
+	int data;
+	struct node *next;
+}NODE;
+
+NODE *head;
+struct node *head;
+
+Exception: An unusual situation in a program

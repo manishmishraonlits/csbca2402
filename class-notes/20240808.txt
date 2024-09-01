@@ -1,0 +1,16 @@
+Framework = Library + Tools to build and run programs + Structure
+
+
+.Net Framework	-	Windows
+.Net Core	-	Cross-platform
+
+.Net
+
+MIT
+GNU GPL
+
+docs.microsoft.com
+learn.microsoft.com
+docs.oracle.com
+
+Integer	-	Int32

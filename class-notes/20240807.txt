@@ -1,0 +1,43 @@
+Tally.Net	-	(Tally Net)
+
+
+Types of  business:
+	- Proprietorship
+	- Partnership
+-------------------------
+	- LLP (Limited Liability Partnership)
+	- Pvt. Ltd.
+	- Ltd.
+	- OPC
+
+Legal Feasibility
+
+structure vs class
+
+
+
+C/C++
+	- Type		- sum.c/sum.cpp
+	- Compile 	- sum.exe/sum.out
+	- Execute	- OS
+
+preprocessing
+Compilation
+Linking
+Java/.Net
+
+Java
+	Virtual Machine (evolved to Runtime Environment)
+		JRE, CLR	-	Managed Env.
+
+makefile
+
+VC++
+VB
+C#
+F#
+
+DLL Hell
+
+
+
