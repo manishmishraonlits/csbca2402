@@ -1,0 +1,15 @@
+{
+    "name": "manis/lms",
+    "autoload": {
+        "psr-4": {
+            "Manis\\Lms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Kumar Mishra",
+            "email": "manishmishra.shg@gmail.com"
+        }
+    ],
+    "require": {}
+}
