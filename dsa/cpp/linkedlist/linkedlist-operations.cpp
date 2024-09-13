@@ -13,7 +13,7 @@ namespace linkedlist
         Node *next; // "
     public:
         Node() {}
-        Node(int data) // Parameterized constructor
+        Node(int data) // Parameterized constructor O(1)
         {
             this->data = data;
             next = NULL;
@@ -69,7 +69,7 @@ namespace linkedlist
         cout << endl
              << "The content of the list is as follows: " << endl;
         drawline(10);
-        while (1)
+        while (1)        
         {
             cout << cursor->getData() << endl;
             if (cursor->getNext() == NULL)
@@ -89,10 +89,13 @@ namespace linkedlist
         }
 
         Node *cursor = head;
-
-        while (cursor->getNext() != NULL)
+        int i=1;
+        while (cursor->getNext() != NULL)       //O(n)
+        {
+            i++;
             cursor = cursor->getNext();
-
+        }
+        cout << endl << "i= " << i << endl << endl;
         cursor->setNext(new Node(data));
     }
 
