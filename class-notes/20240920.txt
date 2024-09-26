@@ -1,0 +1,8 @@
+1. Define data structure. Discuss various data structures in brief. Support your discussion with
+   appropriate diagrams.						[3 + 12]
+
+2. Discuss the types of linked-list in details. Write a program to search an element in linked list.
+									[10 + 5]
+3. Describe tree and its types with their properties and appropriate diagrams. List down the applications of tree.
+									[12 + 3]
+4. [Graph]
